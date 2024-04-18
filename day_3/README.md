@@ -30,6 +30,3 @@ The resources provided offer additional information and guidance for each challe
 * `Challenge 5`: [What's a combination in maths mean?](https://corporatefinanceinstitute.com/resources/data-science/combination/#:~:text=What%20is%20a%20Combination%3F,can%20be%20confused%20with%20permutations.)
 * `Challenge 6`: [What's Newton's method for finding the square root?](https://www.geeksforgeeks.org/find-root-of-a-number-using-newtons-method/)
 * `Challenge 7`: [Linear Search](https://www.geeksforgeeks.org/linear-search/)
-
-# Conclusion
-

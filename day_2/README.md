@@ -22,6 +22,3 @@
 * `Challenge 4`: [How to Calculate Powers of Numbers?](https://www.calculatorsoup.com/calculators/algebra/exponent.php)
 * `Challenge 5`: [How to order list?](https://www.freecodecamp.org/news/python-list-sorting-how-to-order-lists-in-python/#:~:text=You%20can%20sort%20a%20list%20in%20Python%20using%20the%20sort()%20method.&text=The%20method%20accepts%20two%20optional,to%20describe%20the%20sorting%20method)
 * `Challenge 6`: [How I calculate Factorial?](https://www.cuemath.com/numbers/factorial/)
-
-
-# Conclusion
